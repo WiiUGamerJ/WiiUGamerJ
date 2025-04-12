@@ -16,7 +16,7 @@
 
 💁 **A bit more about me:** Since I was little I have been interested in computing, which has led me to early learning about the basics of software and hardware, programming, etc. For more info and projects I've made, visit my portfolio.
 
-❔ Need any help or something? You can contact me sending me a dm on Discord (@wiiugamerj), or sending me an [email](mailto:wiiugamerj@gmail.com) (wiiugamerj@gmail.com)
+❔ Need any help or something? You can contact me sending me a dm on Discord (@wiiugamerj), or sending me an email to wiiugamerj@gmail.com
 <!---
 WiiUGamerJ/WiiUGamerJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
